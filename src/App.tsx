@@ -14,6 +14,7 @@ function App() {
       </header>
       <main>
         <Hero />
+        <div className="h-screen bg-black"></div>
       </main>
     </>
   );
